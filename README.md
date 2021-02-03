@@ -2,6 +2,7 @@
 
 [![Build Status](https://dev.azure.com/torppajanne/AZ400DemoJanne/_apis/build/status/TorppaJanne.ContosoAir?branchName=master)](https://dev.azure.com/torppajanne/AZ400DemoJanne/_build/latest?definitionId=2&branchName=master)
 
+
 # Microsoft.Github CI Demo
 
 Demo website application for Contoso Air.  
